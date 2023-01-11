@@ -7,12 +7,11 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Fresh App</title>
+        <title>It in Dublin</title>
       </Head>
-      <Header/>
-      <Hero/>
-      <Partners/>
-      </div>
+      <Header />
+      <Hero />
+      <Partners />
     </>
   );
 }

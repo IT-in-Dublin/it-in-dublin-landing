@@ -4,7 +4,7 @@
 export default function Card(){
 
   return (
-    <a href="#" class="w-[30rem] border-2 border-b-4 border-gray-200 rounded-xl hover:bg-gray-50">
+    <a href="#" class="w-[30rem] border-2 border-b-4 border-gray-200 rounded-xl bg-gray-50 dark:bg-black hover:bg-gray-50">
 
     <div class="grid grid-cols-6 p-5 gap-y-2">
 
